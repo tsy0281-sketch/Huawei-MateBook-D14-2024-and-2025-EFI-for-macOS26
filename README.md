@@ -43,7 +43,7 @@ OpenCore EFI - macOS Tahoe on MateBook D14 2024 (i5-13420H, UHD 48EU, Metal work
 | **Metal GPU acceleration** | ✅ works | 1536 MB reported, Quartz/CA compositing, window blur |
 | Internal display | ✅ works | 1920x1200, backlight keys wired |
 | Internal speaker | ✅ works | SN6140 via AppleALC + SimpleHDA |
-| Internal microphone | ✅ works | Verifies at driver level (48 kHz, 2ch) |
+| Internal microphone | 🟡 sometime work| Verifies at driver level (48 kHz, 2ch) |
 | Internal keyboard | ✅ works | VoodooPS2 |
 | **Brightness / volume / mute keys** | ✅ works | Fn keys via EC → PS/2 bridge (SSDT-HWFN) |
 | Battery indicator | ✅ works | SMCBatteryManager |
