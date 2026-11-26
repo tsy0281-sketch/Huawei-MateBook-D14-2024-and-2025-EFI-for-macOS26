@@ -12,7 +12,7 @@ audio. Read the *Known issues* section before you complain about the trackpad.
 
 | Part | Model |
 |---|---|
-| Laptop | Huawei MateBook D14 (2024), MCLG-XX |
+| Laptop | Huawei MateBook D14 (2025), MCLG-XX |
 | CPU | Intel Core **i5-13420H** (Raptor Lake-P, 4P + 4E, 12 threads) |
 | iGPU | Intel **UHD Graphics**, `8086:A7A8`, **48 EU / 6 L3 banks** (no Iris Xe) |
 | RAM | 16 GB LPDDR4X-4267 (soldered) |
