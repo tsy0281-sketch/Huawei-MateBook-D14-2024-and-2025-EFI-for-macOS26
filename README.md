@@ -6,6 +6,10 @@ working **Intel UHD (48 EU) Metal acceleration**.
 This is a hobby config assembled and debugged on real hardware. It boots, it renders, it plays
 audio. Read the *Known issues* section before you complain about the trackpad.
 
+OpenCore EFI - macOS Tahoe on MateBook D14 2024 (i5-13420H, UHD 48EU, Metal working). i5-12450H (12th gen) version is still untested - test at your own risk.
+> **12th-gen i5-12450H: still in testing — not verified. Test at your own risk.**
+
+
 ---
 
 ## Hardware this was tested on
