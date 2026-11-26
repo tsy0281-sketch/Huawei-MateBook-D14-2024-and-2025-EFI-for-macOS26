@@ -7,7 +7,10 @@ This is a hobby config assembled and debugged on real hardware. It boots, it ren
 audio. Read the *Known issues* section before you complain about the trackpad.
 
 OpenCore EFI - macOS Tahoe on MateBook D14 2024 (i5-13420H, UHD 48EU, Metal working). i5-12450H (12th gen) version is still untested - test at your own risk.
-> **12th-gen i5-12450H: still in testing — not verified. Test at your own risk.**
+> **12th-gen i5-12450H: still in testing — not verified. Use by you own risk.**
+>**use by you own risk, if you device got brick or broken it no my problem fix it by you self**
+
+
 
 
 ---
